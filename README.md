@@ -28,23 +28,23 @@ python3 cilent.py -l {lhost} -b {bind_ip}
 
 ## Darwin
 
-![darwin](https://github.com/seventeenman/ICMPshell/tree/main/img/darwin.jpg)
+![image](https://github.com/seventeenman/ICMPshell/tree/main/img/darwin.jpg)
 
 
 
 ## Linux
 
-![linux_server](https://github.com/seventeenman/ICMPshell/tree/main/img/linux_server.jpg)
+![image](https://github.com/seventeenman/ICMPshell/tree/main/img/linux_server.jpg)
 
 
 
-![linux_cilent](https://github.com/seventeenman/ICMPshell/tree/main/img/linux_cilent.jpg)
+![image](https://github.com/seventeenman/ICMPshell/tree/main/img/linux_cilent.jpg)
 
 
 
 ## Windows
 
-![win](https://github.com/seventeenman/ICMPshell/tree/main/img/win.jpg)
+![image](https://github.com/seventeenman/ICMPshell/tree/main/img/win.jpg)
 
 
 
