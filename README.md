@@ -50,6 +50,6 @@ python3 cilent.py -l {lhost} -b {bind_ip}
 
 ## Known issues
 
-By default, OSX has a limited maximum UDP package for 9216 bytes. So you can't read the contents of this byte number. In the later stage, I will consider adding a flag to a single transmission in the UDP traffic.
+By default, OSX has a limited maximum UDP package for 9216 bytes. So you can't read the content exceeding this byte. In the later stage, I will consider adding a flag to a single transmission in the UDP traffic.
 
 This project only has a simple test, if there is an error, Issue can be turned on.
